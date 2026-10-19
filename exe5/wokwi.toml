@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-firmware = "../build/exe5/exe5.uf2"
-elf = "../build/exe5/exe5.elf"
